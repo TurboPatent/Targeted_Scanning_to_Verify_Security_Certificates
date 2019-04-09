@@ -1,0 +1,585 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "monitor",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id5121bbd1-325e-f200-e28c-46502d305464\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 46.53395748138427
+        },
+        "size": {
+          "width": 113.38577270507812,
+          "height": 84.17003860473632
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id452c4060-9325-1b5b-5586-2a4f46454b65\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "1d4c2b15-225f-40fc-8479-21c016951355",
+        "z": 2,
+        "objectID": "a80a8594-671f-3cb0-3053-8af48aa12ff4",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "keyboard",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 130.70399608612058
+        },
+        "size": {
+          "width": 113.38577270507812,
+          "height": 55.067690277099615
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "bottom",
+        "id": "bdf97f99-7662-4043-8eee-b18a9c88bfb8",
+        "z": 3,
+        "objectID": "c9332ab3-801c-d2a4-4529-20661b2e2769",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "laptop",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id5121bbd1-325e-f200-e28c-46502d305464\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 67.18109893798828,
+          "y": 270
+        },
+        "size": {
+          "width": 107.74776788189669,
+          "height": 88.83022084919727
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id452c4060-9325-1b5b-5586-2a4f46454b65\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "c9442541-fa60-4a71-8a45-e07ab68ca0d1",
+        "z": 4,
+        "objectID": "a80a8594-671f-3cb0-3053-8af48aa12ff4",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "mobileDevice",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id5121bbd1-325e-f200-e28c-46502d305464\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 93.63777923583984,
+          "y": 450
+        },
+        "size": {
+          "width": 55.15971643136754,
+          "height": 114.84072109481438
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id452c4060-9325-1b5b-5586-2a4f46454b65\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "d5a86fe1-bc8a-4ed8-848a-a958ee6aea7c",
+        "z": 5,
+        "objectID": "a80a8594-671f-3cb0-3053-8af48aa12ff4",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 285,
+          "y": 273.40157318115234
+        },
+        "size": {
+          "width": 119.81096649169922,
+          "height": 74.83460998535156
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id1444a1ec-597b-5b44-f2bd-ab98245b059b\" data-value=\"670b3cfb-6e47-c002-0be9-6a408efd78a8\" data-role=\"tag\">network</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "1573c1e8-04a6-4a9d-8fb4-cab4c10d7a26",
+        "z": 6,
+        "objectID": "3141a6c6-c453-4783-dbd0-32f47aa0b4e0",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "1573c1e8-04a6-4a9d-8fb4-cab4c10d7a26"
+        },
+        "target": {
+          "id": "1d4c2b15-225f-40fc-8479-21c016951355"
+        },
+        "id": "7f9317fd-1f8d-4ffd-8b55-1f9f34c340d8",
+        "z": 7,
+        "objectID": "594fc09d-58d7-ba9f-6b4b-1a7f6655fab2",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cloud",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 631.6093740463257,
+          "y": 273.40157318115234
+        },
+        "size": {
+          "width": 119.81096649169922,
+          "height": 74.83460998535156
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id1444a1ec-597b-5b44-f2bd-ab98245b059b\" data-value=\"670b3cfb-6e47-c002-0be9-6a408efd78a8\" data-role=\"tag\">network</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "9e53e278-6f5d-8052-13fa-8b6411e3e5ca",
+        "z": 7,
+        "objectID": "82a7dc1a-e4cb-a050-95a3-e7937b3f0b82",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "1573c1e8-04a6-4a9d-8fb4-cab4c10d7a26"
+        },
+        "target": {
+          "id": "c9442541-fa60-4a71-8a45-e07ab68ca0d1"
+        },
+        "id": "9b12b014-396b-4495-885e-6bd74099ebd9",
+        "z": 8,
+        "objectID": "592b4e72-97fa-a660-d723-d1556a8a4bfc",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "1573c1e8-04a6-4a9d-8fb4-cab4c10d7a26"
+        },
+        "target": {
+          "id": "d5a86fe1-bc8a-4ed8-848a-a958ee6aea7c"
+        },
+        "id": "811a5bb2-18fa-4e0a-89cf-51048d05495c",
+        "z": 9,
+        "objectID": "34852306-cfe3-3fca-6f4e-e0101ab405aa",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 450,
+          "y": 288.3188781738281
+        },
+        "size": {
+          "width": 105,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id247b2ba0-d604-f1f4-6163-c9e9e3b591f6\" data-value=\"f49f2f99-9618-fe19-6cdb-f2aec25e4e28\" data-role=\"tag\">appliance</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "bottom",
+        "id": "a2e8f345-16dc-4938-8267-e2920b25c20d",
+        "z": 10,
+        "objectID": "75280507-e3df-718b-4f3b-00040ddf8c49",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9e53e278-6f5d-8052-13fa-8b6411e3e5ca"
+        },
+        "target": {
+          "id": "a2e8f345-16dc-4938-8267-e2920b25c20d"
+        },
+        "id": "7b733e10-0f6f-4673-9f17-47b9ea9e9c63",
+        "z": 11,
+        "objectID": "45f8c830-5549-19f3-8a0e-2c64edc2e89a",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "1573c1e8-04a6-4a9d-8fb4-cab4c10d7a26"
+        },
+        "target": {
+          "id": "a2e8f345-16dc-4938-8267-e2920b25c20d"
+        },
+        "id": "33087a43-c6ca-4208-aeb2-28f24b436224",
+        "z": 12,
+        "objectID": "cf712dc0-0ec1-8163-7636-072ae20062c2",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id29889406-8be7-905c-9b12-d74b2db89c99\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 780,
+          "y": 75
+        },
+        "size": {
+          "width": 79.37004089355469,
+          "height": 98.26766967773438
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id7e3d1153-a4db-7697-a789-7f6d9f748ca7\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "id": "715ff22f-5ba8-46a3-93ca-bfa28b3308f1",
+        "z": 13,
+        "objectID": "573c945c-95d2-d000-fe9a-f1623176ab1c",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id29889406-8be7-905c-9b12-d74b2db89c99\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 805,
+          "y": 261.68504333496094
+        },
+        "size": {
+          "width": 79.37004089355469,
+          "height": 98.26766967773438
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id7e3d1153-a4db-7697-a789-7f6d9f748ca7\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "id": "88445244-beb4-b122-54ce-f33b6b127e99",
+        "z": 14,
+        "objectID": "40a93416-cf94-c032-81d8-6c9ba00879d7",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id29889406-8be7-905c-9b12-d74b2db89c99\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 780,
+          "y": 481.68504333496094
+        },
+        "size": {
+          "width": 79.37004089355469,
+          "height": 98.26766967773438
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id7e3d1153-a4db-7697-a789-7f6d9f748ca7\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "id": "a988687d-ed27-afd9-6177-caec1b664d33",
+        "z": 15,
+        "objectID": "1045f5ba-fb44-f38a-18f9-2d89753f3333",
+        "number": 16
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9e53e278-6f5d-8052-13fa-8b6411e3e5ca"
+        },
+        "target": {
+          "id": "715ff22f-5ba8-46a3-93ca-bfa28b3308f1"
+        },
+        "id": "cf801dc7-1260-41a0-97b4-e80b17e4a161",
+        "z": 16,
+        "objectID": "b55367ec-8a1a-7d01-46d0-b2fd26931733",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9e53e278-6f5d-8052-13fa-8b6411e3e5ca"
+        },
+        "target": {
+          "id": "88445244-beb4-b122-54ce-f33b6b127e99"
+        },
+        "id": "e4406e59-71a8-4df2-9326-a8b793002c6a",
+        "z": 17,
+        "objectID": "dbc48323-f672-01e9-da7d-2a540d72353a",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9e53e278-6f5d-8052-13fa-8b6411e3e5ca"
+        },
+        "target": {
+          "id": "a988687d-ed27-afd9-6177-caec1b664d33"
+        },
+        "id": "b099f210-00fe-492f-82c7-608e81e320ff",
+        "z": 18,
+        "objectID": "191ad8bc-7284-2983-268a-42946e2707cd",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "bracketTop",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id2e013611-f353-c8d9-9286-f12bfa89f297\" data-value=\"365374d5-33c5-d465-5e0d-e1ea13f408d7\" data-role=\"tag\">server farm</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 780,
+          "y": 24.86072874069214
+        },
+        "size": {
+          "width": 114.68502044677734,
+          "height": 15
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "id": "cf6a30b3-c072-4b16-b142-c15d496ed202",
+        "z": 19,
+        "objectID": "02d0fe1c-c3ad-6a2c-b53d-160afd3b3df7",
+        "number": 10
+      }
+    ],
+    "tpVersion": 2
+  }
+}

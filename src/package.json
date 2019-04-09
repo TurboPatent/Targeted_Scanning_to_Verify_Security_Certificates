@@ -1,0 +1,291 @@
+{
+  "name": "Targeted_Scanning_to_Verify_Security_Certificates",
+  "description": "methods for scanning of a target range of IP addresses to verify security certificates associated with the range of IP addresses",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 116,
+      "claimCount": 4,
+      "independentCount": 2,
+      "drawingCount": 8,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><span data-type=\"figure\" id=\"id85caf838-3d49-b73c-ba09-e52c2db06db2\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" data-role=\"tag\">Figure 1</span> is a <span data-type=\"term\" id=\"idf84e1c28-7d54-ea77-bbca-8b19d6946d37\" data-value=\"e4c2147d-b4c5-37ff-eb91-c22ea7cd43ef\" data-role=\"tag\">block diagram</span> of an <span data-type=\"term\" id=\"id97eab5c7-326c-74bd-94a5-9deeb1717bd3\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span> of a <span data-type=\"term\" id=\"id94d29930-5b29-8eec-44a0-f297bfd500a3\" data-value=\"636a38f8-dabc-773c-887a-d560730ed794\" data-role=\"tag\">network environment</span> for a <span data-type=\"term\" id=\"id1207a7eb-c99b-8621-c97c-3f3ec24d4be8\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span> to <span data-type=\"term\" id=\"id2d497272-d726-2e74-d99d-fef9f684dac6\" data-value=\"84455a9b-a945-e9ac-ea42-c2f3e26ca480\" data-role=\"tag\">access</span> a <span data-type=\"term\" id=\"id65a26479-c90d-6db7-4a4c-43f9d6bbcdbb\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span> via an <span data-type=\"term\" id=\"idf9d14ced-80cf-9775-bd2d-44ad5b81d115\" data-value=\"f49f2f99-9618-fe19-6cdb-f2aec25e4e28\" data-role=\"tag\">appliance</span>;&nbsp;</p>",
+      "<p><span data-type=\"figure\" id=\"id1c6f4850-36dc-5443-4b09-9535efe12b16\" data-value=\"d08ef1dd-569c-48aa-064a-10c0be21b53a\" data-role=\"tag\">Figure 2</span> is a <span data-type=\"term\" id=\"id3cfadca6-903b-d235-1bfc-5975742b92d8\" data-value=\"e4c2147d-b4c5-37ff-eb91-c22ea7cd43ef\" data-role=\"tag\">block diagram</span> of an <span data-type=\"term\" id=\"idb7b7b76a-7c95-6341-fae0-8784ca09b6d6\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span> of an <span data-type=\"term\" id=\"idc516dd7e-2683-e62d-c6ad-2a99a0f8cb3c\" data-value=\"81cea05e-a741-58ff-9d79-fe34eeedebb0\" data-role=\"tag\">environment</span> for delivering a <span data-type=\"term\" id=\"id86ea839f-a6c7-4617-634e-1abb5ce7cf7d\" data-value=\"4a11b64e-0f50-7fa8-bd3b-e6ea7a2933e2\" data-role=\"tag\">computing environment</span> from a <span data-type=\"term\" id=\"idf9b8d82e-2cb6-380b-9a00-ec9bdb4c9621\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span> to a <span data-type=\"term\" id=\"idb46ecb17-b140-c08e-bb01-e43fb5595773\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span> via an <span data-type=\"term\" id=\"id64501621-9453-f157-8a3d-16efa2935e15\" data-value=\"f49f2f99-9618-fe19-6cdb-f2aec25e4e28\" data-role=\"tag\">appliance</span>;&nbsp;</p>",
+      "<p><span data-type=\"figure\" id=\"idc7001b3a-e322-9ec8-d484-1abcd0d8f5d7\" data-value=\"6a4c071e-7c36-665c-91ab-308c9bcc8db2\" data-role=\"tag\">Figure 3</span> is a <span data-type=\"term\" id=\"id730d83bf-0d15-83ec-1677-2a8f3945bd7d\" data-value=\"e4c2147d-b4c5-37ff-eb91-c22ea7cd43ef\" data-role=\"tag\">block diagram</span> of another <span data-type=\"term\" id=\"ide1e4d7b7-c423-8b06-d9c1-ea6235066aed\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span> of an <span data-type=\"term\" id=\"id84c41e13-2196-a118-7d56-1b244c79960b\" data-value=\"81cea05e-a741-58ff-9d79-fe34eeedebb0\" data-role=\"tag\">environment</span> for delivering a <span data-type=\"term\" id=\"id014f19b8-2b59-f60b-ceb4-37cf36979479\" data-value=\"4a11b64e-0f50-7fa8-bd3b-e6ea7a2933e2\" data-role=\"tag\">computing environment</span> from a <span data-type=\"term\" id=\"idde0921b1-7c15-69b1-9a04-3f8701c513d5\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span> to a <span data-type=\"term\" id=\"ida1f26e6c-a5d0-2294-21d5-ae7249e4b665\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span> via an <span data-type=\"term\" id=\"idca51b83d-320b-1c24-9d8b-909608a334bf\" data-value=\"f49f2f99-9618-fe19-6cdb-f2aec25e4e28\" data-role=\"tag\">appliance</span>;&nbsp;</p>",
+      "<p><span data-type=\"figure\" id=\"idbdc82d2d-0a17-8a29-782c-446b3086a391\" data-value=\"d3a3e26d-99fb-2331-635a-da940f0d036a\" data-role=\"tag\">Figure 4</span> is a <span data-type=\"term\" id=\"idfd0ddb04-edc9-353b-bbd8-d0e52c2c2efa\" data-value=\"e4c2147d-b4c5-37ff-eb91-c22ea7cd43ef\" data-role=\"tag\">block diagram</span> of another <span data-type=\"term\" id=\"idd2a335be-3645-25c6-8c2e-6cfdb621fcfb\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span> of an <span data-type=\"term\" id=\"id4425f948-6a33-f4c0-0f82-bf8520331d80\" data-value=\"81cea05e-a741-58ff-9d79-fe34eeedebb0\" data-role=\"tag\">environment</span> for delivering a <span data-type=\"term\" id=\"idbaed6881-406f-6661-f89f-b6408d4f044e\" data-value=\"4a11b64e-0f50-7fa8-bd3b-e6ea7a2933e2\" data-role=\"tag\">computing environment</span> from a <span data-type=\"term\" id=\"id5a7dfff8-4cfa-c2d2-e65e-a6b6d4b919d6\" data-value=\"5dfc6710-71f3-9d61-84e0-330be03d9eb5\" data-role=\"tag\">server</span> to a <span data-type=\"term\" id=\"id9dcdc586-0757-2eb4-1766-f9d53c344ed9\" data-value=\"8fa79b36-bce6-dded-50e2-0ae168cded0f\" data-role=\"tag\">client</span> via an <span data-type=\"term\" id=\"id2acbf1b2-48e0-c342-b16d-d72f491300a4\" data-value=\"f49f2f99-9618-fe19-6cdb-f2aec25e4e28\" data-role=\"tag\">appliance</span>;&nbsp;</p>",
+      "<p>illustrates a <span data-type=\"drawingObject\" id=\"id0fb0a228-38d8-2179-a1b7-2b32329efe4e\" data-value=\"1158b0c7-ec5f-7959-ebab-abb11fc4111e\" data-role=\"tag\">computing device 500</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-type=\"drawingObject\" id=\"id0fb0a228-38d8-2179-a1b7-2b32329efe4e\" data-value=\"1158b0c7-ec5f-7959-ebab-abb11fc4111e\" data-role=\"tag\">computing device 500</span> in accordance with one <span data-type=\"term\" id=\"idf06337ee-77a4-3c97-a9c3-11b2ab307135\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span>.</p>",
+      "<p>illustrates a <span data-type=\"drawingObject\" id=\"id0fb0a228-38d8-2179-a1b7-2b32329efe4e\" data-value=\"1158b0c7-ec5f-7959-ebab-abb11fc4111e\" data-role=\"tag\">computing device 500</span> in accordance with one <span data-type=\"term\" id=\"id9842fbb5-02cf-6c20-76c0-6c9e00584046\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span>.</p>",
+      "<p>illustrates a <span data-type=\"drawingObject\" id=\"id0fb0a228-38d8-2179-a1b7-2b32329efe4e\" data-value=\"1158b0c7-ec5f-7959-ebab-abb11fc4111e\" data-role=\"tag\">computing device 500</span> in accordance with one <span data-type=\"term\" id=\"id8e08f92c-5884-2b21-35a3-7ff2ec413a77\" data-value=\"99d32ccf-01ed-c294-e8bc-2c06124c55ef\" data-role=\"tag\">embodiment</span>.</p>"
+    ],
+    "parts": [
+      {
+        "name": "client",
+        "number": 102
+      },
+      {
+        "name": "network",
+        "number": 104
+      },
+      {
+        "name": "server",
+        "number": 106
+      },
+      {
+        "name": "appliance",
+        "number": 108
+      },
+      {
+        "name": "server farm",
+        "number": 110
+      },
+      {
+        "name": "network",
+        "number": 112
+      },
+      {
+        "name": "server",
+        "number": 114
+      },
+      {
+        "name": "server",
+        "number": 116
+      },
+      {
+        "name": "appliance",
+        "number": 202
+      },
+      {
+        "name": "WAN optimization appliance",
+        "number": 302
+      },
+      {
+        "name": "WAN optimization appliance",
+        "number": 304
+      },
+      {
+        "name": "client agent",
+        "number": 402
+      },
+      {
+        "name": "computing environment",
+        "number": 404
+      },
+      {
+        "name": "performance monitoring service",
+        "number": 406
+      },
+      {
+        "name": "application delivery system",
+        "number": 408
+      },
+      {
+        "name": "policy engine",
+        "number": 410
+      },
+      {
+        "name": "performance monitoring agent",
+        "number": 412
+      },
+      {
+        "name": "computing device",
+        "number": 500
+      },
+      {
+        "name": "system bus",
+        "number": 502
+      },
+      {
+        "name": "main memory unit",
+        "number": 504
+      },
+      {
+        "name": "network interface",
+        "number": 506
+      },
+      {
+        "name": "installation device",
+        "number": 508
+      },
+      {
+        "name": "display devices",
+        "number": 510
+      },
+      {
+        "name": "i/o controller",
+        "number": 512
+      },
+      {
+        "name": "keyboard",
+        "number": 514
+      },
+      {
+        "name": "pointing device",
+        "number": 516
+      },
+      {
+        "name": "central processing unit",
+        "number": 518
+      },
+      {
+        "name": "storage device",
+        "number": 520
+      },
+      {
+        "name": "cache memory",
+        "number": 602
+      },
+      {
+        "name": "main processor",
+        "number": 604
+      },
+      {
+        "name": "memory port",
+        "number": 606
+      },
+      {
+        "name": "bridge",
+        "number": 608
+      },
+      {
+        "name": "I/O device",
+        "number": 610
+      },
+      {
+        "name": "I/O device",
+        "number": 612
+      },
+      {
+        "name": "graphics processing unit processing unit",
+        "number": 802
+      }
+    ],
+    "terms": [
+      "block diagram",
+      "embodiment",
+      "network environment",
+      "client",
+      "server",
+      "appliance",
+      "environment",
+      "computing environment",
+      "computing device",
+      "specifics",
+      "systems",
+      "network",
+      "clients",
+      "servers",
+      "same network",
+      "following",
+      "point",
+      "broadcast network",
+      "wide area network",
+      "local area network",
+      "telecommunications network",
+      "data communication network",
+      "computer network",
+      "ATM (Asynchronous Transfer Mode)",
+      "SONET (Synchronous Optical Network)",
+      "SDH (Synchronous Digital Hierarchy)",
+      "wireless network",
+      "wireline network",
+      "interface unit",
+      "networks",
+      "network devices",
+      "system",
+      "file server",
+      "web server",
+      "one or more other types",
+      "WAN optimization appliance",
+      "installation device",
+      "performance monitoring service",
+      "WAN connection",
+      "information",
+      "application delivery management system",
+      "desktop",
+      "user",
+      "plurality of execution methods",
+      "policy engine",
+      "application",
+      "data file",
+      "application delivery system",
+      "access",
+      "delivery",
+      "application program",
+      "method",
+      "thin-client computing client",
+      "ActiveX",
+      "Java applet",
+      "server farm",
+      "one or more applications",
+      "thin-client computing or remote display presentation application",
+      "monitoring server",
+      "performance monitoring agent",
+      "predetermined frequency",
+      "monitoring service",
+      "one or more transactions",
+      "one or more appliances",
+      "product embodiments",
+      "computer",
+      "operations",
+      "central processing unit",
+      "main memory unit",
+      "microprocessor",
+      "main processor",
+      "secondary bus",
+      "backside bus",
+      "floppy disk",
+      "CD-ROM",
+      "CD-R/RW",
+      "DVD-ROM",
+      "network interface",
+      "Local Area Network (LAN)",
+      "Internet",
+      "variety",
+      "wide variety",
+      "same or different type",
+      "I/O device",
+      "bridge",
+      "system bus",
+      "external communication bus",
+      "USB bus",
+      "Apple Desktop Bus",
+      "RS-232 serial connection",
+      "SCSI bus",
+      "FireWire bus",
+      "FireWire",
+      "Ethernet bus",
+      "AppleTalk bus",
+      "Gigabit Ethernet bus",
+      "Asynchronous Transfer Mode bus",
+      "HIPPI bus",
+      "Super HIPPI bus",
+      "SerialPlus bus",
+      "SCI/LAMP bus",
+      "FibreChannel bus",
+      "Serial",
+      "sort",
+      "control",
+      "processors",
+      "single instruction",
+      "graphics processing unit",
+      "first computing device",
+      "client computing device",
+      "client agent",
+      "display devices",
+      "i/o controller",
+      "keyboard",
+      "pointing device",
+      "storage device"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Targeted_Scanning_to_Verify_Security_Certificates"
+}

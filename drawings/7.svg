@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="574.9" height="525.1" viewBox="239.9 299.9 574.9 525.1"><g><g transform="translate(240,300)"><g><g>
+<path d="M255,0H0v225h255V0L255,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="11.2" y="10.3" width="232.7" height="204.5" fill="none"/>
+<circle fill="none" cx="127.5" cy="0" r="0.1"/>
+<circle fill="none" cx="190.7" cy="0" r="0.1"/>
+<circle fill="none" cx="255" cy="56.7" r="0.1"/>
+<circle fill="none" cx="255" cy="112.5" r="0.1"/>
+<circle fill="none" cx="255" cy="168.3" r="0.1"/>
+<circle fill="none" cx="190.7" cy="225" r="0.1"/>
+<circle fill="none" cx="127.5" cy="225" r="0.1"/>
+<circle fill="none" cx="64.3" cy="225" r="0.1"/>
+<circle fill="none" cx="0" cy="168.3" r="0.1"/>
+<circle fill="none" cx="0" cy="112.5" r="0.1"/>
+<circle fill="none" cx="0" cy="56.7" r="0.1"/>
+<circle fill="none" cx="64.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(294.9,102.4)"/><path stroke="#000000" fill="none" d="M255,112.5 C272,129.4 277.9,95.5 294.9 112.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(294.9,102.4)" text-anchor="middle"><tspan x="20" y="16.3">604</tspan></text><rect stroke-width="0" fill="none" width="232.7" height="204.5" transform="translate(11.2,10.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(11.2,10.3)" text-anchor="middle"><tspan x="116.4" y="16.8">MAIN PROCESSOR</tspan></text><path stroke="#000000" fill="none" transform="translate(11.2,10.3)" d="M 0 0"/></g><g transform="translate(255,345)"><g><g>
+<path d="M105,0H0v60h105V0L105,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="4.6" y="2.7" width="95.8" height="54.5" fill="none"/>
+<circle fill="none" cx="52.5" cy="0" r="0.1"/>
+<circle fill="none" cx="78.5" cy="0" r="0.1"/>
+<circle fill="none" cx="105" cy="15.1" r="0.1"/>
+<circle fill="none" cx="105" cy="30" r="0.1"/>
+<circle fill="none" cx="105" cy="44.9" r="0.1"/>
+<circle fill="none" cx="78.5" cy="60" r="0.1"/>
+<circle fill="none" cx="52.5" cy="60" r="0.1"/>
+<circle fill="none" cx="26.5" cy="60" r="0.1"/>
+<circle fill="none" cx="0" cy="44.9" r="0.1"/>
+<circle fill="none" cx="0" cy="30" r="0.1"/>
+<circle fill="none" cx="0" cy="15.1" r="0.1"/>
+<circle fill="none" cx="26.5" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(104.9,29.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(104.9,29.9)"/><rect stroke-width="0" fill="none" width="95.8" height="54.5" transform="translate(4.6,2.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.6,2.7)" text-anchor="middle"><tspan x="47.9" y="33.6">P1</tspan></text><path stroke="#000000" fill="none" transform="translate(4.6,2.7)" d="M 0 0"/></g><g transform="translate(370,345)"><g><g>
+<path d="M105,0H0v60h105V0L105,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="4.6" y="2.7" width="95.8" height="54.5" fill="none"/>
+<circle fill="none" cx="52.5" cy="0" r="0.1"/>
+<circle fill="none" cx="78.5" cy="0" r="0.1"/>
+<circle fill="none" cx="105" cy="15.1" r="0.1"/>
+<circle fill="none" cx="105" cy="30" r="0.1"/>
+<circle fill="none" cx="105" cy="44.9" r="0.1"/>
+<circle fill="none" cx="78.5" cy="60" r="0.1"/>
+<circle fill="none" cx="52.5" cy="60" r="0.1"/>
+<circle fill="none" cx="26.5" cy="60" r="0.1"/>
+<circle fill="none" cx="0" cy="44.9" r="0.1"/>
+<circle fill="none" cx="0" cy="30" r="0.1"/>
+<circle fill="none" cx="0" cy="15.1" r="0.1"/>
+<circle fill="none" cx="26.5" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(104.9,29.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(104.9,29.9)"/><rect stroke-width="0" fill="none" width="95.8" height="54.5" transform="translate(4.6,2.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.6,2.7)" text-anchor="middle"><tspan x="47.9" y="33.6">P2</tspan></text><path stroke="#000000" fill="none" transform="translate(4.6,2.7)" d="M 0 0"/></g><g transform="translate(255,430)"><g><g>
+<path d="M105,0H0v60h105V0L105,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="4.6" y="2.7" width="95.8" height="54.5" fill="none"/>
+<circle fill="none" cx="52.5" cy="0" r="0.1"/>
+<circle fill="none" cx="78.5" cy="0" r="0.1"/>
+<circle fill="none" cx="105" cy="15.1" r="0.1"/>
+<circle fill="none" cx="105" cy="30" r="0.1"/>
+<circle fill="none" cx="105" cy="44.9" r="0.1"/>
+<circle fill="none" cx="78.5" cy="60" r="0.1"/>
+<circle fill="none" cx="52.5" cy="60" r="0.1"/>
+<circle fill="none" cx="26.5" cy="60" r="0.1"/>
+<circle fill="none" cx="0" cy="44.9" r="0.1"/>
+<circle fill="none" cx="0" cy="30" r="0.1"/>
+<circle fill="none" cx="0" cy="15.1" r="0.1"/>
+<circle fill="none" cx="26.5" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(104.9,29.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(104.9,29.9)"/><rect stroke-width="0" fill="none" width="95.8" height="54.5" transform="translate(4.6,2.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.6,2.7)" text-anchor="middle"><tspan x="47.9" y="33.6">P3</tspan></text><path stroke="#000000" fill="none" transform="translate(4.6,2.7)" d="M 0 0"/></g><g transform="translate(370,430)"><g><g>
+<path d="M105,0H0v60h105V0L105,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="4.6" y="2.7" width="95.8" height="54.5" fill="none"/>
+<circle fill="none" cx="52.5" cy="0" r="0.1"/>
+<circle fill="none" cx="78.5" cy="0" r="0.1"/>
+<circle fill="none" cx="105" cy="15.1" r="0.1"/>
+<circle fill="none" cx="105" cy="30" r="0.1"/>
+<circle fill="none" cx="105" cy="44.9" r="0.1"/>
+<circle fill="none" cx="78.5" cy="60" r="0.1"/>
+<circle fill="none" cx="52.5" cy="60" r="0.1"/>
+<circle fill="none" cx="26.5" cy="60" r="0.1"/>
+<circle fill="none" cx="0" cy="44.9" r="0.1"/>
+<circle fill="none" cx="0" cy="30" r="0.1"/>
+<circle fill="none" cx="0" cy="15.1" r="0.1"/>
+<circle fill="none" cx="26.5" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(104.9,29.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(104.9,29.9)"/><rect stroke-width="0" fill="none" width="95.8" height="54.5" transform="translate(4.6,2.7)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(4.6,2.7)" text-anchor="middle"><tspan x="47.9" y="33.6">P(N)</tspan></text><path stroke="#000000" fill="none" transform="translate(4.6,2.7)" d="M 0 0"/></g></g><defs/></svg>

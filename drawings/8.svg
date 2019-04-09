@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="480.1" height="580.1" viewBox="269.9 269.9 480.1 580.1"><g><g transform="translate(270,270)"><g><g>
+<path d="M210,0H0v120h210V0L210,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="9.2" y="5.5" width="191.6" height="109.1" fill="none"/>
+<circle fill="none" cx="105" cy="0" r="0.1"/>
+<circle fill="none" cx="157" cy="0" r="0.1"/>
+<circle fill="none" cx="210" cy="30.3" r="0.1"/>
+<circle fill="none" cx="210" cy="60" r="0.1"/>
+<circle fill="none" cx="210" cy="89.7" r="0.1"/>
+<circle fill="none" cx="157" cy="120" r="0.1"/>
+<circle fill="none" cx="105" cy="120" r="0.1"/>
+<circle fill="none" cx="53" cy="120" r="0.1"/>
+<circle fill="none" cx="0" cy="89.7" r="0.1"/>
+<circle fill="none" cx="0" cy="60" r="0.1"/>
+<circle fill="none" cx="0" cy="30.3" r="0.1"/>
+<circle fill="none" cx="53" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(209.9,59.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(209.9,59.9)"/><rect stroke-width="0" fill="none" width="191.6" height="109.1" transform="translate(9.2,5.5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(9.2,5.5)" text-anchor="middle"><tspan x="95.8" y="60.8">CPU 518</tspan></text><path stroke="#000000" fill="none" transform="translate(9.2,5.5)" d="M 102.3 63 130.3 63"/></g><g transform="translate(270,460)"><g><g>
+<path d="M210,0H0v120h210V0L210,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="9.2" y="5.5" width="191.6" height="109.1" fill="none"/>
+<circle fill="none" cx="105" cy="0" r="0.1"/>
+<circle fill="none" cx="157" cy="0" r="0.1"/>
+<circle fill="none" cx="210" cy="30.3" r="0.1"/>
+<circle fill="none" cx="210" cy="60" r="0.1"/>
+<circle fill="none" cx="210" cy="89.7" r="0.1"/>
+<circle fill="none" cx="157" cy="120" r="0.1"/>
+<circle fill="none" cx="105" cy="120" r="0.1"/>
+<circle fill="none" cx="53" cy="120" r="0.1"/>
+<circle fill="none" cx="0" cy="89.7" r="0.1"/>
+<circle fill="none" cx="0" cy="60" r="0.1"/>
+<circle fill="none" cx="0" cy="30.3" r="0.1"/>
+<circle fill="none" cx="53" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(209.9,59.9)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(209.9,59.9)"/><rect stroke-width="0" fill="none" width="191.6" height="109.1" transform="translate(9.2,5.5)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(9.2,5.5)" text-anchor="middle"><tspan x="95.8" y="60.8">GPU 802</tspan></text><path stroke="#000000" fill="none" transform="translate(9.2,5.5)" d="M 102.8 63 130.8 63"/></g><g><path stroke="black" stroke-dasharray="none" d="M 375 452 375 398" fill="none"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(371,460) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(379,390) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(375, 425)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g></g><defs/></svg>

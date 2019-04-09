@@ -1,0 +1,95 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"ida21bd33b-9762-a757-7a34-7a20cd3f4e0d\" data-value=\"98bb3d28-fb28-a837-e636-a5ce89db862e\" data-role=\"tag\">central processing unit</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 270,
+          "y": 270
+        },
+        "size": {
+          "width": 210,
+          "height": 120
+        },
+        "angle": 0,
+        "label": "<p>CPU</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "ed19783a-57dd-466e-bd43-5653e376a945",
+        "z": 2,
+        "objectID": "58b95f12-564f-51ac-b07a-853c95ea856b",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id9ab0d558-3ebc-9213-29e2-b86bea2503dd\" data-value=\"a803058b-ca6c-074a-3543-8196debdcb14\" data-role=\"tag\">graphics processing unit</span>&nbsp;processing unit</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 270,
+          "y": 460
+        },
+        "size": {
+          "width": 210,
+          "height": 120
+        },
+        "angle": 0,
+        "label": "<p>GPU</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "8e04e4b9-455d-102f-9d59-5b7637fac76d",
+        "z": 3,
+        "objectID": "e2a7e7a0-011d-585d-8d6b-83590be79622",
+        "number": 2
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "8e04e4b9-455d-102f-9d59-5b7637fac76d"
+        },
+        "target": {
+          "id": "ed19783a-57dd-466e-bd43-5653e376a945"
+        },
+        "id": "e095d604-2912-4a48-82bb-c64a5ccd53e2",
+        "z": 4,
+        "objectID": "3861fbfe-d9de-697e-a3a2-96ff5aed0b8c"
+      }
+    ],
+    "tpVersion": 2
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id1e1c5124-9d25-6334-f7d8-85ecbe2cd919\" data-value=\"e132e1c2-5f1d-f003-c40c-ea80bb3e84e0\" data-role=\"tag\">main processor</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 239.99999999999972,
+          "y": 300.00000000000034
+        },
+        "size": {
+          "width": 255,
+          "height": 225
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id0dec06db-6355-b8a3-4a1d-5a84b583366b\" data-value=\"e132e1c2-5f1d-f003-c40c-ea80bb3e84e0\" data-role=\"tag\">main processor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "728a9de5-8218-417d-81e5-090cb2fc4e52",
+        "z": 2,
+        "objectID": "97c72b83-e717-7b55-1b86-b2de5de8d5fc",
+        "number": 4,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 255,
+          "y": 345
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>P1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "3d021de8-db7d-45c5-9378-46395d8785a7",
+        "z": 3,
+        "objectID": "326b1f38-3524-00fd-3eb6-0933bd1fa5bb",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 370,
+          "y": 345
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>P2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "8f697a73-fa4a-1d98-5e0f-0af8f591f690",
+        "z": 4,
+        "objectID": "3ed63532-c02d-ec84-2f11-c814c1d8cb8b",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 255,
+          "y": 430
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>P3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "84bfbe7e-9e1e-10c7-7328-70849e723926",
+        "z": 5,
+        "objectID": "8033d896-b6f9-f0df-36a8-b79d6823d9fb",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 370,
+          "y": 430
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>P(N)</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "a7e19b9c-b89c-a180-4b29-93d3a9e7eeaa",
+        "z": 6,
+        "objectID": "0bf07643-c7cf-5067-bd43-30e95b73d1bc",
+        "number": null
+      }
+    ],
+    "tpVersion": 2
+  }
+}

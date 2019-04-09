@@ -1,0 +1,524 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "flowBottomLeft",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 75,
+          "y": 405
+        },
+        "size": {
+          "width": 210,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "a9643343-4944-7508-a999-464e5ac21ba6",
+        "z": 2,
+        "objectID": "53235119-3d00-fa8b-814b-f25d9bb19d6e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowBottomRight",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idfdcaaa0b-e9a4-cf71-cdef-35082520c68f\" data-value=\"e4132758-6330-2c21-4572-47c4dbc76430\" data-role=\"tag\">system bus</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 285,
+          "y": 405
+        },
+        "size": {
+          "width": 270,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "066fe8d1-06b6-60d1-e2f5-bd85356587cc",
+        "z": 3,
+        "objectID": "42c7ef77-8bb5-9d86-3fcb-9ee062f9c73b",
+        "number": 2,
+        "numberPosition": {
+          "connectionAngle": 330,
+          "leadLineAngle": 270
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id1e1c5124-9d25-6334-f7d8-85ecbe2cd919\" data-value=\"e132e1c2-5f1d-f003-c40c-ea80bb3e84e0\" data-role=\"tag\">main processor</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 74.99999999999991,
+          "y": 109.48814392089864
+        },
+        "size": {
+          "width": 180,
+          "height": 120
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id0dec06db-6355-b8a3-4a1d-5a84b583366b\" data-value=\"e132e1c2-5f1d-f003-c40c-ea80bb3e84e0\" data-role=\"tag\">main processor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "c140c4d6-a633-4b50-8107-594bc31d94c6",
+        "z": 5,
+        "objectID": "97c72b83-e717-7b55-1b86-b2de5de8d5fc",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 75,
+          "y": 229.48814392089866
+        },
+        "size": {
+          "width": 60,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>I/O port</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "befc68ab-44b3-45e1-a2de-58217dfac5fa",
+        "z": 6,
+        "objectID": "1f6c071d-4b7a-b8ea-ca77-d6b4f832aaf5",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 134.99999999999991,
+          "y": 229.48814392089866
+        },
+        "size": {
+          "width": 60,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>I/O port</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "44f47a51-3d6e-2e46-5ca0-5e289c9b6b9f",
+        "z": 7,
+        "objectID": "0715e871-0b37-7937-05e4-584271f2d23c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "titlecase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 194.9999999999999,
+          "y": 229.48814392089866
+        },
+        "size": {
+          "width": 60.00000000000003,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>memory port</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "a2a40963-95b8-ac5f-648f-4cc04dff6081",
+        "z": 8,
+        "objectID": "ae4518e3-c2dc-b58d-61a9-ffff753d9aa1",
+        "number": 6,
+        "numberPosition": {
+          "leadLineAngle": 300
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>cache memory</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 345,
+          "y": 131.98814392089864
+        },
+        "size": {
+          "width": 105,
+          "height": 75
+        },
+        "angle": 0,
+        "label": "<p>cache</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "40b3851c-fb0f-4aa6-90f5-6cf4cb11eb19",
+        "z": 9,
+        "objectID": "baff0ffa-6e46-daa7-4f08-f38b405bf66d",
+        "number": 2
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "40b3851c-fb0f-4aa6-90f5-6cf4cb11eb19"
+        },
+        "target": {
+          "id": "c140c4d6-a633-4b50-8107-594bc31d94c6"
+        },
+        "id": "a978017f-ce1f-4e71-8166-6822022ab569",
+        "z": 10,
+        "objectID": "3ef07f98-9920-025f-9a15-b5bca4512e6a"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 59.95312046609342,
+          "y": 340.51185607910156
+        },
+        "size": {
+          "width": 90.09375906781317,
+          "height": 36.03750362712526
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idb0a077f4-e95e-c3f3-f617-f9d725e87ff6\" data-value=\"968b8997-ff09-02d0-9a49-f39c7321c8a7\" data-role=\"tag\">bridge</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "930c3744-f26b-491a-94ca-6e225df40b98",
+        "z": 11,
+        "objectID": "5255d11f-f853-2a9d-8957-47f9e6594bef",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "930c3744-f26b-491a-94ca-6e225df40b98"
+        },
+        "target": {
+          "id": "befc68ab-44b3-45e1-a2de-58217dfac5fa"
+        },
+        "id": "d70de379-fbcc-461c-8347-604496086256",
+        "z": 12,
+        "objectID": "45d2ab29-5777-3108-485d-b560602446e9"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 435,
+          "y": 300
+        },
+        "size": {
+          "width": 109.48814392089844,
+          "height": 53.976287841796875
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ideba09a4c-12d5-539f-67b4-ae740253ae00\" data-value=\"19df363c-c942-67b5-5be3-2896c3a4ed8b\" data-role=\"tag\">I/O device</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "dfd19334-0da7-405b-b2c9-1a3eccc988a3",
+        "z": 13,
+        "objectID": "ecf77f6e-7e14-5d5e-e69c-59aaa1fdda8a",
+        "number": 10
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "dfd19334-0da7-405b-b2c9-1a3eccc988a3"
+        },
+        "target": {
+          "id": "44f47a51-3d6e-2e46-5ca0-5e289c9b6b9f"
+        },
+        "id": "6e78c07f-22db-49e2-a689-eb54a9344b8a",
+        "z": 14,
+        "objectID": "3dee4c9e-0b07-0682-95a2-1e9587c4e1c9",
+        "vertices": [
+          {
+            "x": 165,
+            "y": 330
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id9b78effb-82dc-7259-a89b-8089cc2dd324\" data-value=\"572e329f-fdb0-397e-e77c-5b4ef4c3f198\" data-role=\"tag\">main memory unit</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 344.9572585808477,
+          "y": 235.78324279354746
+        },
+        "size": {
+          "width": 105.08548283830463,
+          "height": 47.40980225470244
+        },
+        "angle": 0,
+        "label": "<p>main memory</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "f85128ff-f2e2-4d71-a0e5-1e19e8210b01",
+        "z": 15,
+        "objectID": "daa58161-daf7-f356-0147-43320f533275",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "f85128ff-f2e2-4d71-a0e5-1e19e8210b01"
+        },
+        "target": {
+          "id": "a2a40963-95b8-ac5f-648f-4cc04dff6081"
+        },
+        "id": "bab8e40a-79a3-4af4-90b0-9db7e609c6b7",
+        "z": 16,
+        "objectID": "e6bad64c-1756-a934-9f12-8de26a29fac5"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 117.77936780650407,
+          "y": 529.4881439208984
+        },
+        "size": {
+          "width": 124.44126438699186,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id9ece4228-f2d2-20d0-d935-b05953bf36f2\" data-value=\"19df363c-c942-67b5-5be3-2896c3a4ed8b\" data-role=\"tag\">I/O device</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "9535ee38-f499-4c62-bc15-8820fdb8f231",
+        "z": 17,
+        "objectID": "3c84eb21-6db6-8701-0547-26f7d6eb46b0",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9535ee38-f499-4c62-bc15-8820fdb8f231"
+        },
+        "target": {
+          "id": "a9643343-4944-7508-a999-464e5ac21ba6"
+        },
+        "id": "a1688b6e-fe88-415f-89ce-a85bf01411d0",
+        "z": 18,
+        "objectID": "8a8acea7-e416-fe8f-3f2e-2859a9c4524c"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "930c3744-f26b-491a-94ca-6e225df40b98"
+        },
+        "target": {
+          "id": "a9643343-4944-7508-a999-464e5ac21ba6",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "14%",
+              "dy": "58%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "455485a3-475e-4655-a164-3d4f0c27cef4",
+        "z": 19,
+        "objectID": "d576a5de-92da-2503-d806-21d438d89cce"
+      }
+    ],
+    "tpVersion": 2
+  }
+}
